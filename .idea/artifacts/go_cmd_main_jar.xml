@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="go-cmd_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/go_cmd_main_jar</output-path>
+    <root id="archive" name="go-cmd_main.jar">
+      <element id="module-output" name="go-cmd_main" />
+    </root>
+  </artifact>
+</component>
