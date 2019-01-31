@@ -22,6 +22,7 @@ public class Main {
     }
 
     private static void init() {
+        System.out.println("Hello!\n");
         System.out.println("What size game would you like to play?");
         int size = createGame();
         scanner.nextLine();
